@@ -1,0 +1,10 @@
+Proceso iniciado
+Proceso en ejecucion: 21/07/2022 11:46:45
+Proceso en ejecucion: 21/07/2022 11:46:50
+Proceso en ejecucion: 21/07/2022 11:46:55
+Proceso en ejecucion: 21/07/2022 11:47:00
+Proceso en ejecucion: 21/07/2022 11:47:05
+Proceso en ejecucion: 21/07/2022 11:47:10
+Proceso en ejecucion: 21/07/2022 11:47:15
+Proceso en ejecucion: 21/07/2022 11:47:20
+Proceso terminado
